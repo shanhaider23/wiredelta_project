@@ -13,6 +13,7 @@ This repository aims to assist you in beginning work on a MERN stack application
     - #### `index.js` - This is what renders the react app by rendering App.js, should not change
 - #### `package.json` - Defines npm behaviors and packages for the client
 #### `server` - Holds the server application
+I used MongoDB as database 
 
 #### `package.json` - Defines npm behaviors like the scripts defined in the next section of the README
 #### `.gitignore` - Tells git which files to ignore
