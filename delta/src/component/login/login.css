@@ -1,0 +1,133 @@
+.login-container {
+  position: relative;
+  width: 100%;
+  height: 750px;
+  background-image: url("../../image/boat.jpg");
+  background-size: 100% 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.login-section {
+  position: absolute;
+  width: 440px;
+  height: 240px;
+  left: 550px;
+  top: 110px;
+}
+.login-form-text {
+  position: absolute;
+  width: 380px;
+  height: 470px;
+  top: 76px;
+  background-color: #fff;
+  opacity: 0.9;
+}
+.login-form-title {
+  position: absolute;
+  height: 76px;
+  top: 0px;
+  width: 380px;
+  background: rgb(31, 23, 90);
+}
+.login-title {
+  text-align: center;
+  position: absolute;
+  top: 20px;
+  left: 135px;
+  color: #fff;
+  font-style: italic;
+  font-weight: 400;
+}
+.login-company {
+  position: absolute;
+  color: #414040;
+  font-weight: 400;
+  top: 40px;
+  left: 85px;
+}
+.login-input-user {
+  position: absolute;
+  width: 390px;
+  left: 30px;
+  top: 130px;
+}
+.login-input-password {
+  position: absolute;
+  width: 390px;
+  left: 30px;
+
+  top: 190px;
+}
+.login-input-1 {
+  width: 310px;
+
+  border: none;
+  border-bottom: 1px solid #7b7b7b;
+}
+.login-input-1::placeholder {
+  color: #979696;
+  font-weight: 400;
+  font-size: 18px;
+}
+.login-input-2 {
+  width: 310px;
+  font-size: 18px;
+  border: none;
+  border-bottom: 1px solid #7b7b7b;
+}
+.login-input-2::placeholder {
+  color: #979696;
+  font-weight: 400;
+}
+.login-checkbox-section {
+  display: flex;
+  position: absolute;
+  width: 370px;
+  height: 55px;
+  left: 30px;
+  top: 250px;
+}
+.login-input-3 {
+  width: 20px;
+  height: 20px;
+  border-radius: 15px;
+}
+.login-remember {
+  position: absolute;
+  left: 30px;
+  color: #7b7b7b;
+  font-weight: 400;
+  font-size: 16px;
+}
+.login-forgot {
+  position: absolute;
+  left: 188px;
+  color: #7b7b7b;
+  font-weight: 400;
+  font-size: 16px;
+}
+.login-btn-section {
+  position: absolute;
+  top: 310px;
+  left: 30px;
+}
+.login-btn {
+  width: 315px;
+  height: 50px;
+  border: none;
+  background: rgb(224, 224, 0);
+
+  color: #fff;
+  font-weight: 400;
+  font-size: 26px;
+}
+.login-btn:hover {
+  background: rgb(123, 255, 0);
+  cursor: pointer;
+}
+.login-term {
+  position: absolute;
+  top: 410px;
+  left: 130px;
+  color: #7b7b7b;
+}
