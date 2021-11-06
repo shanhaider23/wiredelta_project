@@ -34,4 +34,10 @@ Runs just the client app in development mode.<br>
 Open [http://localhost:3000](http://localhost:3000) to view the client in the browser.
 
 To register open link [http://localhost:3000/register]
+The app looks like 
+![Skærmbillede 2021-11-06 182405](https://user-images.githubusercontent.com/75579156/140618706-844e1208-7c46-4475-b437-c92109852e60.png)
+![Skærmbillede 2021-11-06 182257](https://user-images.githubusercontent.com/75579156/140618716-3a376c4d-1a61-4727-9e91-c05565393ad8.png)
+![Skærmbillede 2021-11-06 171904](https://user-images.githubusercontent.com/75579156/140618717-e1cdd61e-1b08-45c8-b34a-62c2c35de34c.png)
+
+
 
